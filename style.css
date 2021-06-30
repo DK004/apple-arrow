@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    cursor: url('https://image.flaticon.com/icons/png/32/2224/2224168.png'), pointer !important;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.arrow{
+    position: absolute;
+}
